@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kuettela
+- 👀 I’m interested in becoming a professionally employed data analyst.
+- 💞️ I’m looking to collaborate on data sets for projects and insights 
+- 📫 How to reach me : kuettelgeo@gmail.com
